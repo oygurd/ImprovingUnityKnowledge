@@ -4,6 +4,7 @@
 
 
  
- - How to make things tileable: [[Excalidraw/make things tileable\|make things tileable]] ![Pasted image 20240414143011.png](/img/user/Pasted%20image%2020240414143011.png)
+ - How to make things tileable: [[UNITY/-Unity shader graph stuff/SVG IMAGES FOR SITE/MAKE THINGS TILEABLE SVG\|MAKE THINGS TILEABLE SVG]]
+	a small guide
  - how to make tileable texture move unevenly: 
 
