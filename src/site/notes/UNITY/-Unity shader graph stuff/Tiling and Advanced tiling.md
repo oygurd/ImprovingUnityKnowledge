@@ -4,6 +4,6 @@
 
 
  
- - How to make things tileable: [[Excalidraw/make things tileable\|Excalidraw/make things tileable]]
+ - How to make things tileable: [[Excalidraw/make things tileable\|make things tileable]]
  - how to make tileable texture move unevenly: 
 
