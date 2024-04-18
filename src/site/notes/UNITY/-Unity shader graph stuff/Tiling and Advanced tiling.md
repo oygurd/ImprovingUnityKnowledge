@@ -4,7 +4,7 @@
 
 	
  
- - How to make things tileable: [[UNITY/-Unity shader graph stuff/SVG IMAGES FOR SITE/MAKE THINGS TILEABLE SVG\|MAKE THINGS TILEABLE SVG]]
+ - How to make things tileable: [[UNITY/-Unity shader graph stuff/SVG IMAGES FOR SITE/MAKE THINGS TILEABLE\|UNITY/-Unity shader graph stuff/SVG IMAGES FOR SITE/MAKE THINGS TILEABLE]]
 	a small guide
  - how to make tileable texture move unevenly: 
 
