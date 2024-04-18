@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/unity/unity-shader-graph-stuff/tiling-and-advanced-tiling/"}
 ---
 
-
+	
  
  - How to make things tileable: [[UNITY/-Unity shader graph stuff/SVG IMAGES FOR SITE/MAKE THINGS TILEABLE SVG\|MAKE THINGS TILEABLE SVG]]
 	a small guide
